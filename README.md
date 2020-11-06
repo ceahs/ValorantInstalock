@@ -1,8 +1,10 @@
 What is this?
 This is an AutoHotkey script that Reyna as fast as possible.
 
+
 Does this script work forever?
 It won't because, despite being diamond I don't have all the characters unlocked, breach and skye remain locked. Read the bottom part unless you have both breach and skye locked and everyone else unlocked
+
 
 How do you use it?
 Instructions:
@@ -11,8 +13,10 @@ Instructions:
 3. Queue up for a game
 Hold shift and press F8 when the character selection screen shows
 
+
 What are the shortcut keys?
 Reyna: Shift + F8
+
 
 How do I change the script depending on how many characters I have unlocked?
 1. Go into a custom match and take a screenshot the character selection screen in fullscren like this: https://i.imgur.com/yKTXLeq.png
